@@ -1,0 +1,38 @@
+<svg id="a62bd564-e885-4ae3-87cd-f0a0bd519c2d" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .\39 d59f001-5ef9-4d64-8c3c-a8bc65391c30 {
+        fill: none;
+        stroke: #000000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <title>Compass</title>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M32.47,102.9A50,50,0,0,0,102.9,32.47"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M96.53,26.1A50,50,0,0,0,26.1,96.53"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M104.25,60A39.82,39.82,0,0,0,97,41.18"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M69,104.25A40,40,0,0,0,104.25,69"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M41.18,97A39.82,39.82,0,0,0,60,104.25"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M24.75,69A39.82,39.82,0,0,0,32,87.82"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M60,24.75A40,40,0,0,0,24.75,60"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M87.82,32A39.82,39.82,0,0,0,69,24.75"/>
+  <polyline class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" points="55.47 63.5 29.14 99.86 65.6 73.37"/>
+  <polyline class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" points="73.47 65.7 99.86 29.14 63.35 55.58"/>
+  <circle class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" cx="64.5" cy="64.5" r="2.5" transform="translate(-26.72 64.5) rotate(-45)"/>
+  <polyline class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" points="63 26.62 63 22.38 66 26.62 66 22.38"/>
+  <polyline class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" points="22.5 62.38 23.5 66.62 24.5 64.38 25.5 66.62 26.5 62.38"/>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M63,105.5a1.5,1.5,0,0,0,3,0c0-.83-0.67-1-1.5-1s-1.5-.15-1.5-1a1.5,1.5,0,1,1,3,0"/>
+  <g>
+    <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="106" y1="64.5" x2="103" y2="64.5"/>
+    <polyline class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" points="106 66.5 103 66.5 103 62.5 106 62.5"/>
+  </g>
+  <path class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" d="M68.12,11a4.5,4.5,0,1,0-7.36-.15"/>
+  <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="64.5" y1="50.75" x2="64.5" y2="31.99"/>
+  <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="54.99" y1="55" x2="41.51" y2="41.51"/>
+  <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="50.75" y1="64.5" x2="31.99" y2="64.5"/>
+  <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="64.5" y1="78.5" x2="64.5" y2="97.01"/>
+  <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="73.99" y1="74" x2="87.49" y2="87.49"/>
+  <line class="9d59f001-5ef9-4d64-8c3c-a8bc65391c30" x1="78.34" y1="64.5" x2="97.01" y2="64.5"/>
+</svg>
